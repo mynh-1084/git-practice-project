@@ -1,1 +1,2 @@
-Email: nguyen.huyen.my@sun-asterisk.com
+Contact: John Doe
+Email: john.doe@example.com
